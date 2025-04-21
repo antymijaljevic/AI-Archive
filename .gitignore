@@ -1,3 +1,4 @@
 **/claude-env
 **/deepseek-env
 **/models
+.env
